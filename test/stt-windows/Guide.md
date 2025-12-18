@@ -3,7 +3,7 @@
 ```bash
 py -0p
 ```
-## 2. Si no tienes Python 3.8+, instálalo con Chocolatey
+## 2. Si no tienes Python 3.8 (Recomendable) o superior, instálalo con Chocolatey
 Ejecuta en PowerShell como Administrador:
 ```bash
 choco install python --version=3.8
